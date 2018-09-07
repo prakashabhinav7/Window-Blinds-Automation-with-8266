@@ -20,8 +20,8 @@ int light = 0;//flag for knowing the status of the lights
 int ivalue = 600;
 
 
-const char* ssid = "X";// Wi-Fi ssid to connect to
-const char* password = "motosodope";//Wi-Fi password
+const char* ssid = "Wifi SSID";// Wi-Fi ssid to connect to
+const char* password = "XXXXXXX";//Wi-Fi password
 
 WiFiServer server(80);
 
